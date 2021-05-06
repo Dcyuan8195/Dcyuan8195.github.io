@@ -10,12 +10,7 @@
     <a href="/blog.html">实验内容</a>
   </nav>
 <html>
-
   <body>
     <h1>hello world!</h1>
-    你好 世界
-    
-  </body>
-</html>
   </body>
 </html>
