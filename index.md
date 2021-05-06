@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -8,9 +7,7 @@
   <body>
     <nav>
     <a href="/">主页</a>
-    <a href="/about.html">关于</a>
     <a href="/blog.html">实验内容</a>
-    <a href="/staff.html">员工</a>
   </nav>
     <!DOCTYPE html>
 <html>
