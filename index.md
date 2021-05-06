@@ -9,7 +9,6 @@
     <a href="/">主页</a>
     <a href="/blog.html">实验内容</a>
   </nav>
-    <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
