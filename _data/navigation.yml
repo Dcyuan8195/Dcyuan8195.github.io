@@ -7,6 +7,6 @@
 - name: Staff
   link: /staff.html  
 - name: Markdown
-  link: https://www.runoob.com/markdown/md-tutorial.html
+  link: /Markdown.html
 - name: 实验报告
-  link: /实验报告.html
+  link: /实验报告.md
