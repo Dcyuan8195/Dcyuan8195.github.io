@@ -7,6 +7,8 @@
 - name: Staff
   link: /staff.html  
 - name: Markdown
-  link: /Markdown.html
-- name: 实验报告
-  link: /实验报告.html
+  link: /Markdown.md
+- name: 第二次实验报告
+  link: /第二次实验报告.md
+- name: 第三次实验报告
+  link: /第三次实验报告.md
