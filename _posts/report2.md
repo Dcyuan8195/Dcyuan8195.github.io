@@ -8,17 +8,17 @@ author: Dcy
 网站公网网址: Dcyuan8195.github.io  
 网站源代码github仓库网址: https://github.com/Dcyuan8195/Dcyuan8195.github.io.git
 
-## 网站目录结构  
+## 一、网站目录结构  
 
 ![网站目录结构](https://github.com/Dcyuan8195/Dcyuan8195.github.io/blob/master/%E7%BD%91%E7%AB%99%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.png)    
 
-## 二.网站截图  
+## 二、网站截图  
 
 
-## 三.实验过程  
+## 三、实验过程  
 
 
-## 四.实验小结  
+## 四、实验小结  
 遇到问题；   
 1：bundle 时出现  
 Don't run Bundler as root. Bundler can ask for sudo if it is needed,   and installing your bundle  
