@@ -1,0 +1,29 @@
+I"�<h1 id="web应用软件开发实训第二次作业开发一个静态网站">WEB应用软件开发实训–第二次作业–开发一个静态网站</h1>
+
+<p>网站公网网址: Dcyuan8195.github.io<br />
+网站源代码github仓库网址: https://github.com/Dcyuan8195/Dcyuan8195.github.io.git</p>
+
+<h2 id="一网站目录结构">一、网站目录结构</h2>
+
+<p><img src="https://raw.githubusercontent.com/Dcyuan8195/Dcyuan8195.github.io/master/Three1.png" alt="tree" /></p>
+
+<h2 id="二网站截图">二、网站截图</h2>
+
+<h2 id="三实验过程">三.实验过程</h2>
+
+<p>按照步骤完成相关操作和要求并截图，上传到Github，编写实验报告，作为贴子发布。</p>
+
+<h2 id="四实验小结">四.实验小结</h2>
+
+<p>遇到问题；
+1：bundle 时出现<br />
+Don’t run Bundler as root. Bundler can ask for sudo if it is needed,   and installing your bundle<br />
+as root will break this application for all non-root users on this machine.<br />
+解决：RUN bundle config –global silence_root_warning 1</p>
+
+<p>2：root@MSI:~# service nginx status</p>
+<ul>
+  <li>nginx is not running<br />
+解决：sudo service nginx start</li>
+</ul>
+:ET
