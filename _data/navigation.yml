@@ -5,10 +5,4 @@
 - name: Blog
   link: /blog.html
 - name: Staff
-  link: /staff.html  
-- name: Markdown
-  link: /Markdown.md
-- name: 第二次实验报告
-  link: /Report2.md
-- name: 第三次实验报告
-  link: /Report3.md
+  link: /staff.html
