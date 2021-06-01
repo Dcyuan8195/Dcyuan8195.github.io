@@ -1,0 +1,54 @@
+I"�	<h1 id="web应用软件开发实训-第三次作业-git使用">WEB应用软件开发实训-第三次作业-GIT使用</h1>
+
+<p>learngit 项目网址为：https://github.com/Dcyuan8195/learngit.git</p>
+
+<h2 id="第一部分">第一部分</h2>
+
+<h3 id="1安装git">1.安装git</h3>
+<p><img src="Three1.png" alt="git" /></p>
+<h3 id="2-创建版本库">2. 创建版本库</h3>
+<p><img src="https://github.com/Dcyuan8195/learngit/blob/master/Three-2.png" alt="创建版本库" /></p>
+
+<h3 id="3版本控制">3.版本控制</h3>
+<p><img src="https://github.com/Dcyuan8195/learngit/blob/master/Three-3.png" alt="版本控制" /></p>
+
+<h3 id="4版本回退">4.版本回退</h3>
+<p><img src="https://github.com/Dcyuan8195/learngit/blob/master/Three-4.png" alt="版本回退" /></p>
+
+<h3 id="5工作区和暂存区">5.工作区和暂存区</h3>
+<p><img src="https://github.com/Dcyuan8195/learngit/blob/master/Three-5.png" alt="工作区和暂存区" /></p>
+
+<h3 id="6管理修改">6.管理修改</h3>
+<p><img src="https://github.com/Dcyuan8195/learngit/blob/master/Three-6.png" alt="管理修改" /></p>
+
+<h3 id="7撤销修改">7.撤销修改</h3>
+<p><img src="https://github.com/Dcyuan8195/learngit/blob/master/Three-7.png" alt="管理修改" /></p>
+
+<h3 id="8删除文件">8.删除文件</h3>
+<p><img src="https://github.com/Dcyuan8195/learngit/blob/master/Three-8.png" alt="删除文件" /></p>
+
+<h3 id="9远程仓库">9.远程仓库</h3>
+<p><img src="https://github.com/Dcyuan8195/learngit/blob/master/Three-9.png" alt="远程仓库" /></p>
+
+<h3 id="10添加到远程仓库">10.添加到远程仓库</h3>
+<p><img src="https://github.com/Dcyuan8195/learngit/blob/master/Three-10.png" alt="添加到远程仓库" /></p>
+
+<h2 id="三实验过程">三，实验过程</h2>
+<p>按照步骤完成相关操作和要求并截图，上传到Github，编写实验报告，作为贴子发布。</p>
+
+<h2 id="四总结">四，总结</h2>
+
+<p>遇到问题：<br />
+1：git remote add origin git@github.com:Dcyuan8195/learngit.git时出现：
+fatal: remote origin already exists.
+解决：先删除远程 Git 仓库：git remote rm origin
+再添加远程 Git 仓库。</p>
+
+<p>2：git push origin master时：<br />
+ssh: connect to host github.com port 22: Resource temporarily unavailable<br />
+fatal: Could not read from remote repository.<br />
+Please make sure you have the correct access rights<br />
+and the repository exists.<br />
+解决：git remote add origin https://github.com/Dcyuan8195/learngit.git</p>
+
+:ET
